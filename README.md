@@ -15,7 +15,7 @@
 
 # 🌍 Sobre a Startup
 
-A **OrbitTrack Technologies** é uma startup focada em revolucionar o mercado de rastreamento veicular e gestão inteligente de frotas.
+A **QuarkDevs Technologies** é uma startup focada em revolucionar o mercado de rastreamento veicular e gestão inteligente de frotas.
 
 Nosso principal produto é uma **Plataforma Completa de Rastreamento e Inteligência Veicular**, desenvolvida para superar soluções tradicionais como Fulltrack e outras plataformas do mercado.
 
@@ -24,7 +24,7 @@ Não é apenas rastreamento.
 
 ---
 
-# 🛰 Plataforma OrbitTrack
+# 🛰 Plataforma QuarkDevs
 
 ## 🔥 Plataforma Completa de Rastreamento
 
@@ -52,7 +52,7 @@ Compatível com:
 
 # 🤖 Inteligência Artificial Embutida
 
-A OrbitTrack não é apenas monitoramento — é análise inteligente.
+A QuarkDevs não é apenas monitoramento — é análise inteligente.
 
 ### 🧠 Módulos de IA:
 
@@ -206,7 +206,7 @@ Plataforma construída com:
 
 <div align="center">
 
-### OrbitTrack Technologies
+### QuarkDevs Technologies
 ### Transformando dados em inteligência veicular 🚀
 
 </div>
