@@ -198,7 +198,7 @@ Plataforma construída com:
 
 # 📞 Contato
 
-🌐 Em breve  
+🌐 infosousa.com.br/quarkdevs_v6_3 
 📧 quarkdevsofc@gmail.com  
 📱 +55 (83) 98124-3468  
 
