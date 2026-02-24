@@ -199,8 +199,8 @@ Plataforma construída com:
 # 📞 Contato
 
 🌐 Em breve  
-📧 contato@orbittrack.ai  
-📱 +55 (xx) xxxx-xxxx  
+📧 quarkdevsofc@gmail.com  
+📱 +55 (83) 98124-3468  
 
 ---
 
